@@ -1,6 +1,6 @@
 # BME450
 # Title
-Script Writer
+[Title]
 
 ## Team members
 Divya Sunderam (dsun105), Sasha Gonzalez (GitHubUserB)
